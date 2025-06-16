@@ -1,9 +1,7 @@
 # FC Barcelona Player Analysis
 
 📊 *Tugas Besar Visualisasi Data Lanjut*  
-👨‍💻 Dikerjakan oleh: 
-** 1. I Wayan Ardi **
-** 2. Maulana Ihsan **
+👨‍💻 Dikerjakan oleh: 1. I Wayan Ardi  2. Maulana Ihsan
 
 ---
 
